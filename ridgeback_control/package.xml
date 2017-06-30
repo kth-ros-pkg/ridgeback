@@ -3,6 +3,7 @@
   <name>ridgeback_control</name>
   <version>0.1.9</version>
   <description>Controllers for Ridgeback</description>
+  <maintainer email="yoshua@kth.se">Yoshua Nava</maintainer>
   <maintainer email="tbaltovski@clearpathrobotics.com">Tony Baltovski</maintainer>
 
   <license>BSD</license>

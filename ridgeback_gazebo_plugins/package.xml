@@ -2,6 +2,8 @@
   <name>ridgeback_gazebo_plugins</name>
   <version>0.0.2</version>
   <description>A fork of hector_gazebo_plugins to provide the ros_force_based_move plugin.</description>
+
+  <maintainer email="yoshua@kth.se">Yoshua Nava</maintainer>
   <maintainer email="meyer@fsr.tu-darmstadt.de">Johannes Meyer</maintainer>
 
   <license>BSD</license>

@@ -4,6 +4,8 @@
   <version>0.1.9</version>
   <description>Launch files and code for autonomous navigation of the Ridgeback</description>
   <author email="spourmehr@clearpathrobotics.com">Shokoofeh Pourmehr</author>
+
+  <maintainer email="yoshua@kth.se">Yoshua Nava</maintainer>
   <maintainer email="tbaltovski@clearpathrobotics.com">Tony Baltovski</maintainer>
   <license>BSD</license>
 
