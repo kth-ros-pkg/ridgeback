@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <launch>
  
   <node pkg="move_base" type="move_base" respawn="false" name="move_base" output="screen">

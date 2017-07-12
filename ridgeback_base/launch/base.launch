@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <launch>
   <include file="$(find ridgeback_description)/launch/description.launch" />
 
