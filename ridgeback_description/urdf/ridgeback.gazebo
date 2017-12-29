@@ -1,9 +1,10 @@
 <?xml version="1.0"?>
-<robot>
+<robot name="ridgeback" xmlns:xacro="http://ros.org/wiki/xacro">
   <gazebo>
     <plugin name="gazebo_ros_control" filename="libgazebo_ros_control.so">
       <robotNamespace>/</robotNamespace>
     </plugin>
+
 
     <plugin name="ridgeback_ros_force_based_move" filename="libridgeback_ros_force_based_move.so">
       <robotNamespace>/</robotNamespace>
